@@ -1,14 +1,19 @@
-# number-Guessing-Game-console-based(Python)
+# Number-Guessing-Game-console-based(Python)
 🎯 Number Guessing Game in Python — a beginner-friendly CLI project with difficulty levels, input validation, and replay option. Great for practicing loops, conditionals, and clean code structure.
 
 
 # 🎯 Number Guessing Game (Python)
-
+[![My Profile](https://img.shields.io/badge/GitHub-AbhayGupta--Dev-black?logo=github&style=flat-square)](https://github.com/AbhayGupta-Dev)
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)  
 
 A fun and beginner-friendly **Command Line Interface (CLI) game** where you try to guess the secret number chosen by the computer. Includes difficulty levels, input validation, and replay support.
 
 ---
+
+Number Guessing Game
+If you found this repository helpful, give us a ⭐️
+
+
 
 ## 🚀 Features
 - 🔢 Random number between 1 and 100  
@@ -83,3 +88,9 @@ Pull requests are welcome! Feel free to fork this repo and add new features like
 💡 Hints (“close” / “far”)
 
 🖼️ GUI version with Tkinter
+
+## 👨‍💻 Created by
+
+This project was created and is maintained by: Abhay Gupta Dev
+
+Feel free to reach out if you have any questions or suggestions! ❤️
