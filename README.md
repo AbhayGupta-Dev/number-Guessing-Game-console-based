@@ -4,6 +4,8 @@
 
 # 🎯 Number Guessing Game (Python)
 
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)  
+
 A fun and beginner-friendly **Command Line Interface (CLI) game** where you try to guess the secret number chosen by the computer. Includes difficulty levels, input validation, and replay support.
 
 ---
